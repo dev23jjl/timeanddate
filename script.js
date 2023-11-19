@@ -1,3 +1,5 @@
+//This is the inner workings of the clock, the JavaScript behind it all. Speaking of which, however, this program is probably a RAM hog...
+
 startTime();
 
 var d = new Date();
