@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 section {
@@ -29,11 +30,6 @@ h1 {
 
 h2 {
   color: white;
-}
-
-body {
-    margin: 0;
-    font-family: sans-serif;
 }
 
 #welcome {
